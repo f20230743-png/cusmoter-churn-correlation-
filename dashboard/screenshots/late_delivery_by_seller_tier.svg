@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="500" viewBox="0 0 960 500">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="32" y="42" font-family="Arial" font-size="24" font-weight="700" fill="#172033">Late Delivery Rate by Seller Tier</text>
+<text x="32" y="100" font-family="Arial" font-size="15" fill="#172033">Needs improvement</text>
+<rect x="260" y="72" width="610" height="42" rx="4" fill="#ea580c"/>
+<text x="882" y="100" font-family="Arial" font-size="15" fill="#172033">40.7%</text>
+<text x="32" y="160" font-family="Arial" font-size="15" fill="#172033">Standard seller</text>
+<rect x="260" y="132" width="168" height="42" rx="4" fill="#ea580c"/>
+<text x="440" y="160" font-family="Arial" font-size="15" fill="#172033">11.2%</text>
+<text x="32" y="220" font-family="Arial" font-size="15" fill="#172033">Top seller</text>
+<rect x="260" y="192" width="0" height="42" rx="4" fill="#ea580c"/>
+<text x="272" y="220" font-family="Arial" font-size="15" fill="#172033">0.0%</text>
+</svg>

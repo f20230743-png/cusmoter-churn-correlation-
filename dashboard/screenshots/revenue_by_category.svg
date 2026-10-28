@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="500" viewBox="0 0 960 500">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="32" y="42" font-family="Arial" font-size="24" font-weight="700" fill="#172033">Revenue by Product Category</text>
+<text x="32" y="100" font-family="Arial" font-size="15" fill="#172033">computers_accessories</text>
+<rect x="260" y="72" width="610" height="42" rx="4" fill="#ea580c"/>
+<text x="882" y="100" font-family="Arial" font-size="15" fill="#172033">243956</text>
+<text x="32" y="160" font-family="Arial" font-size="15" fill="#172033">watches_gifts</text>
+<rect x="260" y="132" width="525" height="42" rx="4" fill="#ea580c"/>
+<text x="797" y="160" font-family="Arial" font-size="15" fill="#172033">209994</text>
+<text x="32" y="220" font-family="Arial" font-size="15" fill="#172033">furniture_decor</text>
+<rect x="260" y="192" width="503" height="42" rx="4" fill="#ea580c"/>
+<text x="775" y="220" font-family="Arial" font-size="15" fill="#172033">201534</text>
+<text x="32" y="280" font-family="Arial" font-size="15" fill="#172033">health_beauty</text>
+<rect x="260" y="252" width="461" height="42" rx="4" fill="#ea580c"/>
+<text x="733" y="280" font-family="Arial" font-size="15" fill="#172033">184530</text>
+<text x="32" y="340" font-family="Arial" font-size="15" fill="#172033">sports_leisure</text>
+<rect x="260" y="312" width="459" height="42" rx="4" fill="#ea580c"/>
+<text x="731" y="340" font-family="Arial" font-size="15" fill="#172033">183657</text>
+<text x="32" y="400" font-family="Arial" font-size="15" fill="#172033">auto</text>
+<rect x="260" y="372" width="449" height="42" rx="4" fill="#ea580c"/>
+<text x="721" y="400" font-family="Arial" font-size="15" fill="#172033">179954</text>
+<text x="32" y="460" font-family="Arial" font-size="15" fill="#172033">housewares</text>
+<rect x="260" y="432" width="355" height="42" rx="4" fill="#ea580c"/>
+<text x="627" y="460" font-family="Arial" font-size="15" fill="#172033">142007</text>
+<text x="32" y="520" font-family="Arial" font-size="15" fill="#172033">toys</text>
+<rect x="260" y="492" width="312" height="42" rx="4" fill="#ea580c"/>
+<text x="584" y="520" font-family="Arial" font-size="15" fill="#172033">124938</text>
+</svg>
